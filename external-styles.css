@@ -1,0 +1,19 @@
+BfForm .p-fieldset-legend-text {
+  font-weight: bold !important;
+  font-size: 25px !important;
+}
+BfForm .p-inputtext {
+  font-size: 14px;
+}
+BfForm label.bf-label {
+  font-size: 18px;
+}
+body .p-radiobutton-label {
+  font-size: 14px;
+}
+BfForm .bf-print-mode {
+  font-size: 18px;
+}
+i.fa-asterisk {
+  color: red;
+}
